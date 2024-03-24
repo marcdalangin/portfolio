@@ -100,10 +100,6 @@
         "skillPicture": "astro.svg"
     },
     {
-        "skillName": "Streamlit",
-        "skillPicture": "streamlit.svg"
-    },
-    {
         "skillName": "cPanel",
         "skillPicture": "cpanel.svg"
     }
