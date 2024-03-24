@@ -1,9 +1,9 @@
 <h1 align="center">
   <div align="center">
-    <img alt="dnachavez (Dan Chavez) logo" src="./public/favicon.svg" height="150px" width="auto"/>
+    <img alt="marc.dev (Marc Darryl) logo" src="./public/favicon.svg" height="150px" width="auto"/>
   </div>
   <br/>
-  Portfolio - Dan Chavez
+  Portfolio - Marc Darryl
 </h1>
 <p align="center">
     My personal portfolio built with Astro.
@@ -12,7 +12,7 @@
     <br />
     <a href="https://dnachavez.ph">Go to website</a>&nbsp;
     ·
-    &nbsp;<a href="https://github.com/dnachavez/portfolio/issues">Report Bug</a>
+    &nbsp;<a href="https://github.com/marcdalangin/portfolio/issues">Report Bug</a>
   </p>
 <br/>
 
