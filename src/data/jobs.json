@@ -52,16 +52,29 @@
         "jobCompanySite": "https://www.teleperformance.com/",
         "jobDescription": "We filter contents on our partner social media platforms and ensure that the contents adhere to the Safety Policy and standards for our end users.",
         "jobActivities": [
-            "User interface design with HTML, CSS, and JavaScript.",
-            "Back-end system development with PHP and CodeIgniter 4.",
-            "RESTful API development with PHP and CodeIgniter 4.",
-            "Database design and implementation with MySQL."
+            "Monitoring contents and filtering them with our policies to ensure the safety and security of our platform users.",
+            "Identifies and eliminates contents with violations like violence, hate speech, child exploitation, and more."
         ],
         "jobTechnologies": [
             {
                 "name": "TCS",
                 "icon": "tcs"
             }
+        ]
+    },
+    {
+        "id": "adec-innovations",
+        "jobPicture": "adec.webp",
+        "jobColor": "#27235e",
+        "jobTitle": "Full Search Residential Examiner",
+        "jobTime": "June 2018 - June 2020",
+        "jobCompany": "ADEC Innovations",
+        "jobCompanySite": "https://www.adec-innovations.com/",
+        "jobDescription": "Handles the report generation of real estate transactions of our customers.",
+        "jobActivities": [
+            "Creating title reports based on customer needs and preference, deals with background checking of real estate properties and individuals involved in the transaction."
+        ],
+        "jobTechnologies": [
         ]
     },
     {
