@@ -8,9 +8,7 @@
 <p align="center">
     My personal portfolio built with Astro.
     <br />
-    Cloned from devenapuros's <a href="https://github.com/devenapuros/portfolio">portfolio</a> project.
-    <br />
-    <a href="https://dnachavez.ph">Go to website</a>&nbsp;
+    <a href="https://marcdarryl.vercel.app">Go to website</a>&nbsp;
     ·
     &nbsp;<a href="https://github.com/marcdalangin/portfolio/issues">Report Bug</a>
   </p>
