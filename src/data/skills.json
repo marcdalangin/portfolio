@@ -64,10 +64,6 @@
         "skillPicture": "figma.svg"
     },
     {
-        "skillName": "Adobe Photoshop",
-        "skillPicture": "photoshop.svg"
-    },
-    {
         "skillName": "Canva",
         "skillPicture": "canva.svg"
     },
@@ -98,9 +94,5 @@
     {
         "skillName": "Astro",
         "skillPicture": "astro.svg"
-    },
-    {
-        "skillName": "cPanel",
-        "skillPicture": "cpanel.svg"
     }
 ]
