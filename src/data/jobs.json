@@ -1,10 +1,26 @@
 [
     {
+        "id": "datacentric-corporation",
+        "jobPicture": "datacentric.webp",
+        "jobColor": "#006fff",
+        "jobTitle": "Sports Data Operator",
+        "jobTime": "July 2024 - Present",
+        "jobCompany": "Datacentric Corporation",
+        "jobCompanySite": "",
+        "jobDescription": "Monitoring wide varieties of live sporting events from all around the world and handling sports data.",
+        "jobActivities": [
+            "Data analytics and handling sensitive live sports data.",
+            "Communication with our freelance scouts all around the world."
+        ],
+        "jobTechnologies": [
+        ]
+    },
+    {
         "id": "knowles-training-institute",
         "jobPicture": "kti.webp",
         "jobColor": "#006fff",
         "jobTitle": "Web Developer Intern",
-        "jobTime": "February 2024 - Present",
+        "jobTime": "February 2024 - April 2024",
         "jobCompany": "Knowles Training Institute",
         "jobCompanySite": "https://knowlesti.ph/about-us/",
         "jobDescription": "Became a part of the Wordpress Development Team. We maintain the company website and ensure that all contents are up to date.",
@@ -47,7 +63,7 @@
         "jobPicture": "tp.webp",
         "jobColor": "#27235e",
         "jobTitle": "Social Media Content Moderator",
-        "jobTime": "July 2020 - Present",
+        "jobTime": "July 2020 - July 2024",
         "jobCompany": "Teleperformance (formerly Majorel)",
         "jobCompanySite": "https://www.teleperformance.com/",
         "jobDescription": "We filter contents on our partner social media platforms and ensure that the contents adhere to the Safety Policy and standards for our end users.",
