@@ -3,7 +3,7 @@
         "id": "sportradar",
         "jobPicture": "sportradar.webp",
         "jobColor": "#006fff",
-        "jobTitle": "Sports Data Operator",
+        "jobTitle": "Senior Data Analyst",
         "jobTime": "July 2024 - Present",
         "jobCompany": "Sportradar",
         "jobCompanySite": "https://sportradar.com/",
@@ -23,17 +23,20 @@
         "id": "knowles-training-institute",
         "jobPicture": "kti.webp",
         "jobColor": "#006fff",
-        "jobTitle": "Web Developer Intern",
-        "jobTime": "February 2024 - April 2024",
+        "jobTitle": "Software Developer Intern",
+        "jobTime": "February 2024 - June 2024",
         "jobCompany": "Knowles Training Institute",
         "jobCompanySite": "https://knowlesti.ph/about-us/",
-        "jobDescription": "Became a part of the Wordpress Development Team. We maintain the company website and ensure that all contents are up to date.",
+        "jobDescription": "Became a part of the Software Development Team. We maintain the company website and ensure that all contents are up to date.",
         "jobActivities": [
             "User interface design with HTML, CSS, and JavaScript.",
             "Back-end infrastructure development with PHP.",
             "API development and management with PHP.",
             "RESTful API consumption with JavaScript.",
-            "Database design and implementation with MySQL."
+            "Database design and implementation with MySQL.",
+            "Experimented with emerging technologies to understand their impact on future projects.",
+            "Contributed to modern software architectures and API-driven development.",
+            "Followed test-driven development and continuous integration practices to accelerate feature delivery."
         ],
         "jobTechnologies": [
             {
