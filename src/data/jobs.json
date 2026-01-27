@@ -1,16 +1,20 @@
 [
     {
-        "id": "datacentric-corporation",
-        "jobPicture": "datacentric.webp",
+        "id": "sportradar",
+        "jobPicture": "sportradar.webp",
         "jobColor": "#006fff",
         "jobTitle": "Sports Data Operator",
         "jobTime": "July 2024 - Present",
-        "jobCompany": "Datacentric Corporation",
-        "jobCompanySite": "",
-        "jobDescription": "Monitoring wide varieties of live sporting events from all around the world and handling sports data.",
+        "jobCompany": "Sportradar",
+        "jobCompanySite": "https://sportradar.com/",
+        "jobDescription": "Managed high-volume data streams for live sporting events, consistently achieving 100% accuracy and on-time delivery.",
         "jobActivities": [
-            "Data analytics and handling sensitive live sports data.",
-            "Communication with our freelance scouts all around the world."
+            "Managed high-volume data streams for live sporting events, consistently achieving 100% accuracy and on-time delivery.",
+            "Collaborated with cross-functional teams to enhance data pipeline efficiency and ensure superior data accuracy.",
+            "Utilized statistical models and predictive analytics to improve accuracy and profitability in odds compilation.",
+            "Conducted root cause analysis to accurately identify and troubleshoot issues.",
+            "Analyzed market trends to identify patterns and potential risks.",
+            "Flagged unusual betting activities and market moves that may indicate potential fraud or market manipulation."   
         ],
         "jobTechnologies": [
         ]
