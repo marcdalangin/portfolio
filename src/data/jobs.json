@@ -7,7 +7,7 @@
         "jobTime": "July 2024 - Present",
         "jobCompany": "Sportradar",
         "jobCompanySite": "https://sportradar.com/",
-        "jobDescription": "Managed high-volume data streams for live sporting events, consistently achieving 100% accuracy and on-time delivery.",
+        "jobDescription": "Responsible for the daily analysis of our rapidly expanding Live Data Service for various sporting events around the world.",
         "jobActivities": [
             "Managed high-volume data streams for live sporting events, consistently achieving 100% accuracy and on-time delivery.",
             "Collaborated with cross-functional teams to enhance data pipeline efficiency and ensure superior data accuracy.",
@@ -20,32 +20,28 @@
         ]
     },
     {
-        "id": "knowles-training-institute",
-        "jobPicture": "kti.webp",
+        "id": "freelance",
+        "jobPicture": "freelance.webp",
         "jobColor": "#006fff",
-        "jobTitle": "Software Developer Intern",
-        "jobTime": "February 2024 - June 2024",
-        "jobCompany": "Knowles Training Institute",
-        "jobCompanySite": "https://knowlesti.ph/about-us/",
-        "jobDescription": "Became a part of the Software Development Team. We maintain the company website and ensure that all contents are up to date.",
+        "jobTitle": "Freelance Software Developer",
+        "jobTime": "February 2023 - Present",
+        "jobCompany": "Freelance",
+        "jobCompanySite": "#",
+        "jobDescription": "Freelance Software Developer for local clients.",
         "jobActivities": [
-            "User interface design with HTML, CSS, and JavaScript.",
-            "Back-end infrastructure development with PHP.",
-            "API development and management with PHP.",
-            "RESTful API consumption with JavaScript.",
-            "Database design and implementation with MySQL.",
-            "Experimented with emerging technologies to understand their impact on future projects.",
-            "Contributed to modern software architectures and API-driven development.",
-            "Followed test-driven development and continuous integration practices to accelerate feature delivery."
+            "Led the design, development and deployment of 15+ web and mobile applications for local clients.",
+            "Streamlined prototyping workflows using no-code tools and Figma to deliver functional MVPs, cutting time-to-market and validation periods in half.",
+            "Orchestrated cloud infrastructure and DevOps using AWS and Docker; implemented automated environment provisioning and CI/CD workflows to enhance deployment reliability.",
+            "Oversaw code quality, version control, and agile sprint cycles across a team of 10+ engineers. Delivered production-grade systems with less than 200ms API latency and 99.9% uptime."
         ],
         "jobTechnologies": [
             {
-                "name": "HTML",
-                "icon": "html"
+                "name": "React",
+                "icon": "react"
             },
             {
-                "name": "CSS",
-                "icon": "css"
+                "name": "AWS",
+                "icon": "aws"
             },
             {
                 "name": "JavaScript",
@@ -60,8 +56,57 @@
                 "icon": "mysql"
             },
             {
-                "name": "WordPress",
-                "icon": "wordpress"
+                "name": "Python",
+                "icon": "python"
+            },
+            {
+                "name": "Npm",
+                "icon": "npm"
+            },
+            {
+                "name": "Netlify",
+                "icon": "netlify"
+            }
+        ]
+    },
+    {
+        "id": "knowles-training-institute",
+        "jobPicture": "kti.webp",
+        "jobColor": "#006fff",
+        "jobTitle": "Software Developer Intern",
+        "jobTime": "February 2024 - July 2024",
+        "jobCompany": "Knowles Training Institute",
+        "jobCompanySite": "https://knowlesti.ph/about-us/",
+        "jobDescription": "Became a part of the Software Development Team. We maintain the company website and ensure that all contents are up to date.",
+        "jobActivities": [
+            "Engineered Python-based automation scripts to interface with Infrastructure as Code (IaC) tools, applying Object-Oriented Programming (OOP) principles to create reusable modules for cloud provisioning.",
+            "Developed and optimized data-driven logic within legacy system migrations, ensuring all code adhered to PEP 8 standards and security best practices to maintain high-performance benchmarks.",
+            "Maintained source code integrity using Git, collaborating in an Agile SDLC environment through peer code reviews, unit testing, and comprehensive technical documentation in English."
+        ],
+        "jobTechnologies": [
+            {
+                "name": "Python",
+                "icon": "python"
+            },
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "Git",
+                "icon": "git"
+            },
+            {
+                "name": "Linux",
+                "icon": "linux"
             }
         ]
     },
