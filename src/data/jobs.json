@@ -29,19 +29,13 @@
         "jobCompanySite": "#",
         "jobDescription": "Freelance Software Developer for local clients.",
         "jobActivities": [
-            "Led the design, development and deployment of 15+ web and mobile applications for local clients.",
-            "Streamlined prototyping workflows using no-code tools and Figma to deliver functional MVPs, cutting time-to-market and validation periods in half.",
-            "Orchestrated cloud infrastructure and DevOps using AWS and Docker; implemented automated environment provisioning and CI/CD workflows to enhance deployment reliability.",
-            "Oversaw code quality, version control, and agile sprint cycles across a team of 10+ engineers. Delivered production-grade systems with less than 200ms API latency and 99.9% uptime."
+            "Developed responsive React + Flask web applications for small business clients with integrated payment and scheduling systems."
+
         ],
         "jobTechnologies": [
             {
                 "name": "React",
                 "icon": "react"
-            },
-            {
-                "name": "AWS",
-                "icon": "aws"
             },
             {
                 "name": "JavaScript",
@@ -62,10 +56,6 @@
             {
                 "name": "Npm",
                 "icon": "npm"
-            },
-            {
-                "name": "Netlify",
-                "icon": "netlify"
             }
         ]
     },
